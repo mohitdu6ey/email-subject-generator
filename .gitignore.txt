@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables file
+.env
+*.env
+
+# Config files with secrets
+config.yaml
+secret.key
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
